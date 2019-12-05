@@ -6,7 +6,7 @@ Language model inference code by Kenneth Heafield (kenlm at kheafield.com)
 
 ```bash
 conda install -c ninedw kenlm 
-``
+```
 
 ### Basic Usage
 ```python
