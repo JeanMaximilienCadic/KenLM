@@ -1,0 +1,2 @@
+include kenlm/bin/*
+include kenlm/kenlm.so
